@@ -1,0 +1,77 @@
+Numerical Differentiation Using Excel
+Overview
+This project demonstrates the implementation of numerical differentiation methods using Microsoft Excel to approximate the first derivative of the function:
+\[f(x)=x-e^x\]
+The numerical results are compared with the analytical derivative to evaluate the accuracy of each finite difference method through absolute error analysis.
+
+Objectives
+- Implement numerical differentiation methods in Microsoft Excel.
+- Compare numerical results with the analytical derivative.
+- Evaluate the accuracy of each method using absolute error.
+- Visualize the function and numerical results using Excel charts.
+
+Tools
+- Microsoft Excel
+
+Function
+\[f(x)=x-e^x\]
+
+Analytical derivative:
+\[f'(x)=1-e^x\]
+
+Numerical Methods
+- Forward Difference (First Order)
+- Backward Difference (First Order)
+- Central Difference (Second Order)
+- Second-Order Forward Difference
+- Fourth-Order Central Difference
+
+Analysis
+This project includes:
+- Numerical differentiation
+- Analytical derivative comparison
+- Absolute error calculation
+- Data visualization using Excel charts
+
+Project Structure
+```
+Numerical-Differentiation-Using-Excel
+│
+├── Turunan_Numerik.xlsx
+├── README.md
+└── images
+    ├── function_graph.png
+    ├── derivative_comparison.png
+    └── error_analysis.png
+```
+Key Features
+✔ Numerical differentiation using finite difference methods
+✔ Analytical derivative validation
+✔ Absolute error analysis
+✔ Excel-based visualization
+✔ Easy-to-understand implementation
+
+Preview
+Add screenshots of:
+- Function Graph
+- Derivative Comparison
+- Error Analysis
+- Excel Dashboard
+
+Skills Demonstrated
+- Microsoft Excel
+- Numerical Methods
+- Finite Difference Methods
+- Mathematical Modeling
+- Error Analysis
+- Data Visualization
+- Analytical Thinking
+
+Author
+Oktaviani Putri
+
+License
+This project is created for educational and portfolio purposes.
+
+If you find this project useful, feel free to give it a star!
+#MicrosoftExcel #Excel #NumericalMethods #FiniteDifference #DataAnalysis #Statistics #Engineering #Portfolio
